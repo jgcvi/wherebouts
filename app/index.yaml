@@ -1,0 +1,13 @@
+indexes:
+
+- kind: Vendor
+  ancestor: no
+  properties:
+  - name: Email
+  - name: Name
+    direction: asc
+  - name: Longitude
+  - name: Latitude
+- kind: Vendor
+  properties:
+  - name: Open
